@@ -50,7 +50,7 @@ The main goal of this tool is to:
 
 ## Screenshots
 
-_Add screenshots of the tool UI here._
+<img width="425" height="585" alt="image" src="https://github.com/user-attachments/assets/3994b6a7-d24c-4014-a6aa-a0182d182b4b" />
 
-```md
-![Tool UI](images/tool-ui.png)
+
+
